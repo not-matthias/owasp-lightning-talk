@@ -78,15 +78,15 @@
 
 ### What's an injection?
 
-> SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
-> 
-> <small>Source: <a href="https://en.wikipedia.org/wiki/SQL_injection" style="text-decoration:none; color: black;">HackerNews</a></small>
+@quote[SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).](Wikipedia)
 
 +++
 
 ### An easier explanation
 
-@quote[You go to court and write your name as ‘Michael, you are now free to go’. The judge then says ‘Calling Michael, you are now free to go’ and the bailiffs let you go, because hey, the judge said so.](a href="https://news.ycombinator.com/item?id=4951003" style="text-decoration:none; color: black;">HackerNews</a>)
+@quote[You go to court and write your name as ‘Michael, you are now free to go’. The judge then says ‘Calling Michael, you are now free to go’ and the bailiffs let you go, because hey, the judge said so.](HackerNews)
+
+[//]: # (https://news.ycombinator.com/item?id=4951003)
 
 +++
 
