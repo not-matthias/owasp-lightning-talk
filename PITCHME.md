@@ -43,7 +43,7 @@
 
 ### Contents
 
-@ol[](false)
+@ol
 
 - **Injection**
 - Broken Authentication and Session Management
