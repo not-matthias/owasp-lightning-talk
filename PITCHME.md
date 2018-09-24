@@ -86,10 +86,11 @@
 
 ### An easier explanation
 
+@size[0.5em](
 > “You go to court and write your name as ‘Michael, you are now free to go’. The judge then says ‘Calling Michael, you are now free to go’ and the bailiffs let you go, because hey, the judge said so.”
 > 
 > <small>Source: <a href="https://news.ycombinator.com/item?id=4951003" style="text-decoration:none; color: black;">HackerNews</a></small>
-
+)
 +++
 
 ### 
