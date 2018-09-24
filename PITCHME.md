@@ -39,9 +39,9 @@
 
 @ul
 
-- contains the most critical security risks to web applications
-- aims to raise the awareness about application security
-- identifies some of the most critical risks facing organizations
+- most critical security risks to web applications
+- raise the awareness about application security
+- identifies most critical risks facing organizations
 
 @ulend
 
