@@ -43,16 +43,16 @@
 
 ### Contents
 
-1. **Injection**
-2. <small>Broken Authentication and Session Management</small>
-3. <small>Sensitive Data Exposure</small>
-4. <small>XML External Entity (XXE)</small>
-5. <small>Broken Access Control</small>
-6. <small>Security Misconfiguration</small>
-7. **Cross-Site Scripting (XSS)**
-8. <small>Insecure Deserialization</small>
-9. <small>Using Components with Known Vulnerabilities</small>
-10. <small>Insufficient Logging and Monitoring</small>
+<span> 1. **Injection**</span><br>
+<small> 2. Broken Authentication and Session Management</small><br>
+<small> 3. Sensitive Data Exposure</small><br>
+<small> 4. XML External Entity (XXE)</small><br>
+<small> 5. Broken Access Control</small><br>
+<small> 6. Security Misconfiguration</small><br>
+<span>  7. **Cross-Site Scripting (XSS)**</span><br>
+<small> 8. Insecure Deserialization</small><br>
+<small> 9. Using Components with Known Vulnerabilities</small><br>
+<small> 10. Insufficient Logging and Monitoring</small><br>
 
 --- 
 
