@@ -43,6 +43,16 @@
 
 ### Contents
 
+@ol[](false)
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@olend
+
+
+
 <span> 1. **Injection**</span><br>
 <small> 2. Broken Authentication and Session Management</small><br>
 <small> 3. Sensitive Data Exposure</small><br>
