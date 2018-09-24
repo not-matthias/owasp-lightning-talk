@@ -45,24 +45,18 @@
 
 @ol[](false)
 
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
+- **Injection**
+- Broken Authentication and Session Management
+- Sensitive Data Exposure
+- XML External Entity (XXE)
+- Broken Access Control
+- Security Misconfiguration
+- **Cross-Site Scripting (XSS)**
+- Insecure Deserialization
+- Using Components with Known Vulnerabilities
+- Insufficient Logging and Monitoring
 
 @olend
-
-
-
-<span> 1. **Injection**</span><br>
-<small> 2. Broken Authentication and Session Management</small><br>
-<small> 3. Sensitive Data Exposure</small><br>
-<small> 4. XML External Entity (XXE)</small><br>
-<small> 5. Broken Access Control</small><br>
-<small> 6. Security Misconfiguration</small><br>
-<span>  7. **Cross-Site Scripting (XSS)**</span><br>
-<small> 8. Insecure Deserialization</small><br>
-<small> 9. Using Components with Known Vulnerabilities</small><br>
-<small> 10. Insufficient Logging and Monitoring</small><br>
 
 --- 
 
