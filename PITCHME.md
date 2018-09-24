@@ -68,7 +68,7 @@
 
 # Injection
 
-<img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="50%" height="50%" align="middle">
+<img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="80%" height="80%" align="middle">
 
 +++
 
