@@ -78,7 +78,9 @@
 
 ### What's an injection?
 
-@quote[SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).](Wikipedia)
+@size[0.5em](
+@quote[SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution](Wikipedia)
+)
 
 +++
 
