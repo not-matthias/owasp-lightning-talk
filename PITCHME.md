@@ -80,7 +80,7 @@
 
 > SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
 > 
-> <small>Source: Wikipedia</small>
+> <small>Source: <a href="https://en.wikipedia.org/wiki/SQL_injection" style="text-decoration:none; color: black;">HackerNews</a></small>
 
 +++
 
