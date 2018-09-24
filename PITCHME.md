@@ -12,7 +12,9 @@
 
 ---
 
-## OWASP
+## The OWASP Foundation
+
+<img src="./owasp-logo.png" width="50%" height="50%" align="middle">
 
 +++ 
 
@@ -25,13 +27,15 @@
 
 --- 
 
-## OWASP Top 10
+## The OWASP Top 10 List
+ 
+### 
 
 +++
 
 ### What is the OWASP Top 10 List?
 
-- contains the most critical security risks to web applications#
+- contains the most critical security risks to web applications
 - aims to raise the awareness about application security
 - identifies some of the most critical risks facing organizations
 
@@ -39,16 +43,16 @@
 
 ### Contents
 
-1. Injection
-2. Broken Authentication and Session Management
-3. Sensitive Data Exposure
-4. XML External Entity (XXE)
-5. Broken Access Control
-6. Security Misconfiguration
-7. Cross-Site Scripting (XSS)
-8. Insecure Deserialization
-9. Using Components with Known Vulnerabilities
-10. Insufficient Logging and Monitoring
+1. **Injection**
+2. <small>Broken Authentication and Session Management</small>
+3. <small>Sensitive Data Exposure</small>
+4. <small>XML External Entity (XXE)</small>
+5. <small>Broken Access Control</small>
+6. <small>Security Misconfiguration</small>
+7. **Cross-Site Scripting (XSS)**
+8. <small>Insecure Deserialization</small>
+9. <small>Using Components with Known Vulnerabilities</small>
+10. <small>Insufficient Logging and Monitoring</small>
 
 --- 
 
