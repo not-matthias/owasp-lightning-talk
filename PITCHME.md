@@ -16,6 +16,8 @@
 
 <img src="./owasp-logo.png" width="50%" height="50%" align="middle">
 
+Source: <a  href="https://www.secplicity.org/2017/04/12/owasp-top-10-web-application-security-update/" style="text-decoration:none; color: black;">secplicity.com</a>
+
 +++ 
 
 ### What is the OWASP Foundation?
@@ -69,6 +71,8 @@
 # Injection
 
 <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="80%" height="80%" align="middle">
+
+Source: <a href="https://xkcd.com/327/" style="text-decoration:none; color: black;">xkcd.com</a>
 
 +++
 
