@@ -16,7 +16,7 @@
 
 <img src="./owasp-logo.png" width="50%" height="50%" align="middle">
 
-Source: <a  href="https://www.secplicity.org/2017/04/12/owasp-top-10-web-application-security-update/" style="text-decoration:none; color: black;">secplicity.com</a>
+<small>Source: <a  href="https://www.secplicity.org/2017/04/12/owasp-top-10-web-application-security-update/" style="text-decoration:none; color: black;">secplicity.com</a></small>
 
 +++ 
 
@@ -72,7 +72,7 @@ Source: <a  href="https://www.secplicity.org/2017/04/12/owasp-top-10-web-applica
 
 <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="80%" height="80%" align="middle">
 
-Source: <a href="https://xkcd.com/327/" style="text-decoration:none; color: black;">xkcd.com</a>
+<small>Source: <a href="https://xkcd.com/327/" style="text-decoration:none; color: black;">xkcd.com</a></small>
 
 +++
 
@@ -80,7 +80,7 @@ Source: <a href="https://xkcd.com/327/" style="text-decoration:none; color: blac
 
 > SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
 > 
-> Source: Wikipedia
+> <small>Source: Wikipedia</small>
 
 +++
 
@@ -88,7 +88,7 @@ Source: <a href="https://xkcd.com/327/" style="text-decoration:none; color: blac
 
 > “You go to court and write your name as ‘Michael, you are now free to go’. The judge then says ‘Calling Michael, you are now free to go’ and the bailiffs let you go, because hey, the judge said so.”
 > 
-> Source: <a href="https://news.ycombinator.com/item?id=4951003" style="text-decoration:none; color: black;">HackerNews</a>
+> <small>Source: <a href="https://news.ycombinator.com/item?id=4951003" style="text-decoration:none; color: black;">HackerNews</a></small>
 
 +++
 
