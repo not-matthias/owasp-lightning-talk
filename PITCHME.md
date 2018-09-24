@@ -78,9 +78,8 @@
 
 ### What's an injection?
 
-@size[0.5em](
-@quote[SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution](Wikipedia)
-)
+@quote[@size[0.5em](SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution)](Wikipedia)
+
 
 +++
 
