@@ -91,10 +91,16 @@
 
 +++
 
-### 
+### Example
 
---- 
++++
 
-# XSS
+### How to prevent SQL Injection?
 
+@ul
 
+- Prepared Statements
+- Database permissions
+- Escaping strings (' -> \')
+
+@ulend
