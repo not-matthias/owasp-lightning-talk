@@ -104,3 +104,7 @@
 - Escaping strings (' -> \')
 
 @ulend
+
+--- 
+
+### Thanks
