@@ -68,7 +68,7 @@
 
 --- 
 
-# Injection
+# SQL Injection
 
 <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="80%" height="80%" align="middle">
 
@@ -76,7 +76,7 @@
 
 +++
 
-### What's an injection?
+### What's an SQL injection?
 
 @quote[SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution](Wikipedia)
 
