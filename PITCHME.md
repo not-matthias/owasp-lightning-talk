@@ -54,14 +54,14 @@
 @ol
 
 - **Injection**
-- Broken Authentication and Session Management
-- Sensitive Data Exposure
-- XML External Entity (XXE)
-- Broken Access Control
-- Security Misconfiguration
-- Cross-Site Scripting (XSS)
-- Insecure Deserialization
-- Using Components with Known Vulnerabilities
+- Broken Authentication and Session Management      <!-- Unlimited Login Attempts, Guessing the Session ID -->
+- Sensitive Data Exposure                           <!-- Storing the password in plaintext -->
+- XML External Entity (XXE)                         <!-- Using XML External Entities -->
+- Broken Access Control                             <!-- Gettings access to other accounts, viewing sensitive documents -->
+- Security Misconfiguration                         <!-- Displaying sensitive data in error messages -->
+- Cross-Site Scripting (XSS)	                    <!-- Injecting client-side scripts injected into web-pages - redirect user to malicious sites -->
+- Insecure Deserialization                          <!-- editing serialized objects -->
+- Using Components with Known Vulnerabilities       
 - Insufficient Logging and Monitoring
 
 @olend
