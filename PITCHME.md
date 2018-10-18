@@ -55,7 +55,7 @@
 
 - **Injection**
 - Broken Authentication and Session Management      <!-- Unlimited Login Attempts, Guessing the Session ID -->
-- Sensitive Data Exposure                           <!-- Storing the password in plaintext -->
+- Sensitive Data Exposure                           <!-- Storing the password in plaintext, Sending Session ID without encryption -->
 - XML External Entity (XXE)                         <!-- Using XML External Entities -->
 - Broken Access Control                             <!-- Gettings access to other accounts, viewing sensitive documents -->
 - Security Misconfiguration                         <!-- Displaying sensitive data in error messages -->
