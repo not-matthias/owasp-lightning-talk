@@ -62,7 +62,7 @@
 - Cross-Site Scripting (XSS)	                    <!-- Injecting client-side scripts injected into web-pages - redirect user to malicious sites -->
 - Insecure Deserialization                          <!-- editing serialized objects -->
 - Using Components with Known Vulnerabilities       
-- Insufficient Logging and Monitoring
+- Insufficient Logging and Monitoring               <!-- Log login requests - Bruteforce? -->
 
 @olend
 
